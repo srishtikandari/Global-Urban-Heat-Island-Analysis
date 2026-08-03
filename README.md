@@ -103,7 +103,7 @@ The analysis follows a structured workflow:
 
 ![Urban Heat Trend](images/urban_heat_trend.png)
 
-## Random Forest Feature Importance
+## Random Forest 
 
 ![Feature Importance](images/forest_predictions.png)
 
