@@ -95,6 +95,20 @@ The analysis follows a structured workflow:
 - NDVI and Tree Canopy Percentage demonstrated high multicollinearity, reflecting that both variables capture closely related aspects of urban vegetation.
 
 - Random Forest Regression substantially outperformed Multiple Linear Regression, achieving an **R² of 0.809** and an **RMSE of 0.201°C**, indicating that urban heat dynamics are influenced by complex, non-linear relationships.
+- ## Correlation Matrix
+
+![Correlation Matrix](images/heatmap.png)
+
+## Urban Heat Trend
+
+![Urban Heat Trend](images/urban_heat_trend.png)
+
+## Random Forest Feature Importance
+
+![Feature Importance](images/forest_predictions.png)
+
+
+
 
 ---
 
