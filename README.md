@@ -10,7 +10,7 @@ This project investigates the environmental determinants of urban heat intensity
 
 ---
 
-## Research Objectives
+## Project Objectives
 
 The project seeks to answer the following questions:
 
